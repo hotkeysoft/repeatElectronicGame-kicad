@@ -5,9 +5,9 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "RepeatGame"
+Date "2019-10-23"
+Rev "A"
 Comp ""
 Comment1 ""
 Comment2 ""
