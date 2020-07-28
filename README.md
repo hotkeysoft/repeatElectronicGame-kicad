@@ -9,7 +9,7 @@ Rev A October 2019
 - Tag-Connect for programming
 - Runs on 3 AAA batteries
 
-The microcontroller runs a [TMS1100 emulator](https://github.com/hotkeysoft/emulators) I made.
+The microcontroller runs a [TMS1100 emulator](https://github.com/hotkeysoft/emulators) I made (running in TMS1700 mode).
 
 One ROM is loaded on the emulator: **Pocket Repeat** (by *Tandy/Radio-Shack*).  This is a Simon game clone.
 
