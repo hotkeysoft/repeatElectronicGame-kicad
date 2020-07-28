@@ -3,8 +3,8 @@ Rev A October 2019
 
 ### Handheld Electronic Game
 - ATmega328P microcontroller running at 12MHz
-- 10 push buttons with red LEDs
-- 4 buttons for game mode
+- 4 LEDs
+- 4 buttons for play / mode selection
 - Buzzer
 - Tag-Connect for programming
 - Runs on 3 AAA batteries
